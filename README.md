@@ -1,4 +1,4 @@
-# content-creation-pipeline-multi-agent
+# content-creation-pipeline-multi-agent ### (Writer → Editor → SEO)
 # (Writer → Editor → SEO)
 
 ## Overview
