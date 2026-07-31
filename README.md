@@ -1,5 +1,5 @@
-# content-creation-pipeline-multi-agent ### (Writer → Editor → SEO)
-# (Writer → Editor → SEO)
+# content-creation-pipeline-multi-agent
+#### (Writer → Editor → SEO)
 
 ## Overview
 A sequential multi-agent team where a supervisor agent coordinates three specialist agents — Writer, Editor, and SEO Optimizer — in a fixed, ordered pipeline. Unlike the earlier finance/news supervisor (which *routes* to one or both independent workers), this supervisor must *pipeline* work, passing each worker's output as the next worker's input in a strict sequence.
